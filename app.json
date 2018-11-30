@@ -1,0 +1,23 @@
+{
+    "name": "Licket Line Bot",
+    "description": "A ticket line bot for Licket ",
+    "repository": "https://github.com/tw0517tw/bottender-order-example",
+    "website": "https://blog.yoctol.com/bottender-line-order-example-4a3d33dc19f8",
+    "logo": "https://raw.githubusercontent.com/bottenderjs/assets/master/Logo_Full.png",
+    "keywords": [
+        "node", 
+        "Licket", 
+        "chatbot", 
+        "LINE"
+    ],
+    "env": {
+        "ACCESS_TOKEN": {
+            "description": "The access token of your channel, get from LINE developers site.",
+            "value": ""
+        },
+        "CHANNEL_SECRET": {
+            "description": "The channel secret of your channel, get from LINE developers site.",
+            "value": ""
+        }
+    }
+}
